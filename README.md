@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Griffasaur/Griffasaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... Starting my journey into Software Development.
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... nothing at the moment!

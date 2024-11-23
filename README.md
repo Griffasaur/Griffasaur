@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Starting my journey into Software Development.
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... Java, SQL, JavaScript
 - 👯 I’m looking to collaborate on ... nothing at the moment!
 - 🤔 I’m looking for help with ... everything! I'll never say no to advice!
 - 💬 Ask me about ... anything you think I could answer.
